@@ -1,0 +1,36 @@
+﻿/* CSS Document */
+
+body {
+    text-align: center; margin:0; padding:0; border:0;
+	font:12px Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000; background:#FFF; line-height:150%;
+	height:100%;
+	}
+html { height:100%; }
+div,form,img,ul,li {margin: 0; padding: 0; border: 0; }
+h1,h2,h3,h4,h5,h6,h7,h8,h9,h10 { margin:0; display:inline; }
+table,td,tr,th{ text-align:center; font-size:14px; }
+input { font-size:12px; }
+p{color: #666;margin-top:0}
+/* public */
+
+a:link {color: #666; text-decoration:underline;}
+a:visited {color: #666;text-decoration:none;}
+a:hover {color: #ED145B; text-decoration:none;}
+a:active {color: #666;}
+
+#textleft { text-align: left; }
+#textcenter { text-align:center; }
+#textright { text-align:right; }
+#margintop10 { margin-top:10px; }
+
+.main { text-align:center; }
+.main img { display:block; margin:0 auto; }
+
+
+
+
+
+
+
+
+
